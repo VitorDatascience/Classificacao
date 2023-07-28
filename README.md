@@ -1,4 +1,4 @@
-# Classificacao
+# Classificação 
 Na carreira de cientista de dados, muitos desafios reais são abordados por meio de problemas de classificação. Nesse contexto, nossa variável dependente é discreta, o que resulta em diferentes classes. Essas classes podem ser apenas duas, configurando um problema de classificação binária, ou podem ser várias, caracterizando um problema multiclasse.
 No processo de desenvolvimento do modelo, a etapa de criação, treinamento, validação e teste pode ser considerada a mais "fácil". No entanto, para elevar o nível, é crucial concentrar esforços em outras áreas igualmente importantes.
 A abordagem mais desafiadora envolve tomar decisões sobre como lidar com dados faltantes (missing data) de maneira eficiente. Além disso, a engenharia de recursos (feature engineering) desempenha um papel fundamental na preparação dos dados, buscando transformações e representações que possam melhorar o desempenho do modelo.
